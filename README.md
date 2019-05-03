@@ -16,9 +16,9 @@
 ## Sharing Session [Explore your IT]
 Exploit0x?  |  Description  |  Slide
 ----  |  ----  |  ----
-Exploit0x1 | Basic Penetration Testing | [Slide0x1](https://github.com/CSDV01/index/tree/master/sharingsession_ppt) 
-Exploit0x2 | Basic Reverse Engineering Android App | [Slide0x2](https://github.com/CSDV01/index/tree/master/sharingsession_ppt)
-Exploit0x3 | Blockchain Fundamental | [Slide0x3](https://github.com/CSDV01/index/tree/master/sharingsession_ppt)
+[Exploit0x1](https://raw.githubusercontent.com/CSDV01/index/master/poster/exploit-0x1.jpg) | Basic Penetration Testing | [Slide0x1](https://github.com/CSDV01/index/tree/master/sharingsession_ppt) 
+[Exploit0x2](https://raw.githubusercontent.com/CSDV01/index/master/poster/exploit-0x2.jpg) | Basic Reverse Engineering Android App | [Slide0x2](https://github.com/CSDV01/index/tree/master/sharingsession_ppt)
+[Exploit0x3](https://raw.githubusercontent.com/CSDV01/index/master/poster/exploit-0x2.jpg) | Blockchain Fundamental | [Slide0x3](https://github.com/CSDV01/index/tree/master/sharingsession_ppt)
 
 &nbsp;
 
